@@ -1,0 +1,37 @@
+name: Bug report
+description: Report a problem with Sawti for Mac
+title: "[Bug] "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Issues are public. Do not include recordings, transcripts, meeting screenshots, API keys, or other sensitive information. Do not attach diagnostic logs unless you have reviewed them and removed private information.
+  - type: input
+    id: app-version
+    attributes:
+      label: Sawti version
+      description: Find this in Sawti → Settings → About.
+      placeholder: "0.8.2-beta.12"
+    validations:
+      required: true
+  - type: input
+    id: macos-version
+    attributes:
+      label: macOS version
+      placeholder: "macOS 15.1"
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: What did you expect to happen?
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: What happened instead?
+      description: Include the steps that led to the problem.
+    validations:
+      required: true
