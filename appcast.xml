@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='utf-8'?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>MeetingTranscriber</title>
+        <title>Sawti</title>
         <item>
-            <title>0.8.2-beta.12</title>
-            <pubDate>Fri, 30 Oct 2026 05:46:24 +0000</pubDate>
+            <title>0.8.2-beta.14</title>
+            <pubDate>Sat, 31 Oct 2026 01:31:48 -0400</pubDate>
             <link>https://github.com/Nourchkair/Sawti-Releases/releases</link>
-            <sparkle:version>0.8.2012</sparkle:version>
-            <sparkle:shortVersionString>0.8.2-beta.12</sparkle:shortVersionString>
+            <sparkle:version>0.8.2014</sparkle:version>
+            <sparkle:shortVersionString>0.8.2-beta.14</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/Nourchkair/Sawti-Releases/releases/download/v0.8.2-beta.12/Sawti-0.8.2-beta.12.zip" length="18797953" type="application/octet-stream" sparkle:edSignature="fomP4nF0fs8rRKWHIvjcE1/NGoJhKX4x+z5BojNdpsb4e5WT//LbY5yRt16f13gxtDmpX61+4VTHOR5JxpdlBA==" />
+            <enclosure url="https://github.com/Nourchkair/Sawti-Releases/releases/download/v0.8.2-beta.14/Sawti-0.8.2-beta.14.zip" length="18869178" type="application/octet-stream" sparkle:edSignature="ImlvmdQRbaKlpS3cFe3lWE9iS8zPDin3Hhyfj5nIgHKsjhEnaOqz8iZz8lil3rMKIr1LMPC0aZ6M4raltrrnDw==" />
         <sparkle:channel>beta</sparkle:channel></item>
     </channel>
 </rss>
