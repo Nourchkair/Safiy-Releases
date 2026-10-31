@@ -3,14 +3,14 @@
     <channel>
         <title>Sawti</title>
         <item>
-            <title>0.8.2-beta.14</title>
-            <pubDate>Sat, 31 Oct 2026 01:31:48 -0400</pubDate>
+            <title>0.8.2-beta.15</title>
+            <pubDate>Sat, 31 Oct 2026 02:35:01 -0400</pubDate>
             <link>https://github.com/Nourchkair/Sawti-Releases/releases</link>
-            <sparkle:version>0.8.2014</sparkle:version>
-            <sparkle:shortVersionString>0.8.2-beta.14</sparkle:shortVersionString>
+            <sparkle:version>0.8.2015</sparkle:version>
+            <sparkle:shortVersionString>0.8.2-beta.15</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/Nourchkair/Sawti-Releases/releases/download/v0.8.2-beta.14/Sawti-0.8.2-beta.14.zip" length="18869178" type="application/octet-stream" sparkle:edSignature="ImlvmdQRbaKlpS3cFe3lWE9iS8zPDin3Hhyfj5nIgHKsjhEnaOqz8iZz8lil3rMKIr1LMPC0aZ6M4raltrrnDw==" />
+            <enclosure url="https://github.com/Nourchkair/Sawti-Releases/releases/download/v0.8.2-beta.15/Sawti-0.8.2-beta.15.zip" length="18891713" type="application/octet-stream" sparkle:edSignature="hCge0XT2LMMm0fOclxOGDoWkwsasFYrnd4sK40SAbYKQw4u9NS2ISjtTKtkBPBHPbbKAk0HKi8zdLruRL3/2BA==" />
         <sparkle:channel>beta</sparkle:channel></item>
     </channel>
 </rss>
