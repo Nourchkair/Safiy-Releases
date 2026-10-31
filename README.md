@@ -3,7 +3,7 @@
 This public repository hosts the downloadable Sawti for Mac app, release notes,
 and Sparkle update feeds. Download the latest version from
 [Releases](https://github.com/Nourchkair/Sawti-Releases/releases) or use the
-download button on the [Sawti website](https://circular-grid-6rz4883.shipstatic.com/).
+download button on the [Sawti website](https://sawtiapp.shipstatic.com/).
 
 This repository does not contain Sawti's development source code.
 
