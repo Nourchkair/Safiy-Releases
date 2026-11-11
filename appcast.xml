@@ -3,14 +3,14 @@
     <channel>
         <title>Sawti</title>
         <item>
-            <title>0.8.2-beta.20</title>
-            <pubDate>Fri, 06 Nov 2026 18:26:14 -0500</pubDate>
+            <title>0.8.2-beta.21</title>
+            <pubDate>Wed, 11 Nov 2026 14:16:40 -0500</pubDate>
             <link>https://github.com/Nourchkair/Sawti-Releases/releases</link>
-            <sparkle:version>0.8.2020</sparkle:version>
-            <sparkle:shortVersionString>0.8.2-beta.20</sparkle:shortVersionString>
+            <sparkle:version>0.8.2021</sparkle:version>
+            <sparkle:shortVersionString>0.8.2-beta.21</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/Nourchkair/Sawti-Releases/releases/download/v0.8.2-beta.20/Sawti-0.8.2-beta.20.zip" length="20647619" type="application/octet-stream" sparkle:edSignature="NolmBfQYigR2QlwiCH+X8v48hxwi+N7sy/Ck04aE+3JwRJCZQnaz3KcZNxOKLrfbjnrD9AV9yAs8OkaHjApvCQ==" />
+            <enclosure url="https://github.com/Nourchkair/Sawti-Releases/releases/download/v0.8.2-beta.21/Safiy-0.8.2-beta.21.zip" length="21918153" type="application/octet-stream" sparkle:edSignature="Eo7+dk6W1W6tKKca7kzdr/9yHRNevt546scNFSgQIbDY+PszHUFH1w0j3k42UrjyZ2sPmYyFiq95cJKSSDErDQ==" />
         <sparkle:channel>beta</sparkle:channel></item>
     </channel>
 </rss>
