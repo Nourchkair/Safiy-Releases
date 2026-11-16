@@ -3,14 +3,14 @@
     <channel>
         <title>Safiy</title>
         <item>
-            <title>0.9.0-beta.6</title>
-            <pubDate>Sun, 15 Nov 2026 03:07:03 -0500</pubDate>
+            <title>0.9.0-beta.7</title>
+            <pubDate>Mon, 16 Nov 2026 12:16:43 -0500</pubDate>
             <link>https://github.com/Nourchkair/Safiy-Releases/releases</link>
-            <sparkle:version>0.9.6</sparkle:version>
-            <sparkle:shortVersionString>0.9.0-beta.6</sparkle:shortVersionString>
+            <sparkle:version>0.9.7</sparkle:version>
+            <sparkle:shortVersionString>0.9.0-beta.7</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/Nourchkair/Safiy-Releases/releases/download/v0.9.0-beta.6/Safiy-0.9.0-beta.6.zip" length="22058945" type="application/octet-stream" sparkle:edSignature="9Pq+of1zVZpsdV7txw1yGSxPe8Pla3B117nmJadnC3W+cHvacRXel6zwp1krYOFtPcnKnNwwskJArbn+Cl+fDA==" />
+            <enclosure url="https://github.com/Nourchkair/Safiy-Releases/releases/download/v0.9.0-beta.7/Safiy-0.9.0-beta.7.zip" length="22280942" type="application/octet-stream" sparkle:edSignature="tHwZzeqE0IuF78P99U1gzzGAGsPNGKHYKgDsmVtQVrdxtBq3czOBidyvUt55hmG42gDYE5036PogZbZYKE/vDw==" />
         <sparkle:channel>beta</sparkle:channel></item>
     </channel>
 </rss>
